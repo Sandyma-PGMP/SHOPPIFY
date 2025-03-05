@@ -2,15 +2,18 @@
   --primary: #00754a;
   --white: #ffffff;
 }
-
+*{
+ 
+}
 html {
-  width: 560px;
-  max-width: 100%;
-  margin: 0px auto;
+  background-color:cadetblue;
 }
 
 body {
   font-family: "Bebas Neue", serif;
+  width: 660px;
+  max-width: 100%;
+  margin: 0px auto
 }
 
 h1,
